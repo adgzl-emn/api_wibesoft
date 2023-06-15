@@ -13,7 +13,7 @@ MAIL_PORT=1025
 MAIL_USERNAME=null
 MAIL_PASSWORD=null
 MAIL_ENCRYPTION=null
- </code>
+ </code> <br>
 4- Gorev Guncelleme  (token gerekli) => http://127.0.0.1:8000/api/update-task <br>
  4.a eger user ise  gorevin status unu guncelleyebilir <br>
 
